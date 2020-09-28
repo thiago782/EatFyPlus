@@ -1,0 +1,9 @@
+25.50;Cabernet Sauvignon
+27.45;Cabernet Franc
+45.50;Merlot Francês
+35.00;Malbec Argentino
+47.77;Pinot Noir
+38.10;Chardonnay Americano
+57.00;Gewurztraminer
+46.90;Sauvignon Blanc
+39.00;Barbera Italiana

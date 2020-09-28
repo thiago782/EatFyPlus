@@ -1,0 +1,4 @@
+Rocambole de carne moída;Sprite;Sauvignon Blanc;61.5
+Picadinho de carne;Sprite;Barbera Italiana;60.5
+17.30;Fanta Laranja;Cabernet Sauvignon;49.3
+3.30;Pepsi;campoo;22.6
